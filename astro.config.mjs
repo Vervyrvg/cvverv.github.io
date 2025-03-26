@@ -5,7 +5,7 @@ import tailwind from '@astrojs/tailwind';
 
 // https://astro.build/config
 export default defineConfig({
-    site: 'https://cvverv.github.io',
+    site: 'https://vervyrvg.github.io/cvverv.github.io',
     integrations: [
         mdx(),
         sitemap(),
